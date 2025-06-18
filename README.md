@@ -1,6 +1,6 @@
 # Software Engineering
 
-### WPF CurrencyConverterAPI
+## WPF CurrencyConverterAPI
 
 #### Third Party API Internet Calls
 #### WPF
@@ -16,7 +16,7 @@
 #### StaticResource
 #### JSON
 
-### WPF CurrencyConverterSQL
+## WPF CurrencyConverterSQL
 #### CRUD
 #### WPF
 #### C#
@@ -44,7 +44,7 @@
 #### Style
 #### Setter
 
-### WPF MVVM Inventory Manager
+## WPF MVVM Inventory Manager
 #### CRUD
 #### WPF
 #### C#
@@ -73,7 +73,7 @@
 #### Control Template
 #### Setter
 
-### WPF ZooManager
+## WPF ZooManager
 #### CRUD
 #### WPF
 #### C#
