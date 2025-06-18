@@ -53,6 +53,7 @@
 #### MSSQL
 #### .NET
 #### CommunityToolkit.mvvm
+#### WeakReferenceManager
 #### xUnit Unit Testing
 #### Microsoft Entity Framework Core
 #### SQL Server Management Studio 21
