@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM", "MVVM.csproj", "{13DDB8C5-C81A-4A28-9D77-338F3C318CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM.Tests", "..\MVVM.Tests\MVVM.Tests.csproj", "{BE243DD3-B364-4265-9346-153EE1AA6D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13DDB8C5-C81A-4A28-9D77-338F3C318CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DDB8C5-C81A-4A28-9D77-338F3C318CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DDB8C5-C81A-4A28-9D77-338F3C318CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DDB8C5-C81A-4A28-9D77-338F3C318CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE243DD3-B364-4265-9346-153EE1AA6D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE243DD3-B364-4265-9346-153EE1AA6D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE243DD3-B364-4265-9346-153EE1AA6D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE243DD3-B364-4265-9346-153EE1AA6D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B00E0012-99BE-4110-8503-8A2318A39E6E}
+	EndGlobalSection
+EndGlobal
