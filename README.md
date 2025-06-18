@@ -52,6 +52,7 @@
 #### MVVM
 #### MSSQL
 #### .NET
+#### CommunityToolkit.mvvm
 #### xUnit Unit Testing
 #### Microsoft Entity Framework Core
 #### SQL Server Management Studio 21
