@@ -1,0 +1,13 @@
+﻿@model ASP.NET_Core_MVC.Models.Item
+@{
+    var items = new List<string> { "item1", "item2", "item3", "item4", "item5" };
+}
+
+<p> This is the name of the item @Model.Name</p>
+
+<ul>
+    @foreach(var item in items)
+    {
+        <li>@item</li>
+    }
+</ul>

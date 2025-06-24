@@ -1,5 +1,12 @@
 # Software Engineering
 
+## ASP.NET MVC
+
+#### SQL Server Management Studio 21
+#### CRUD
+#### Entity Framework Core
+#### Schema
+
 ## WPF CurrencyConverterAPI
 
 #### Third Party API Internet Calls
