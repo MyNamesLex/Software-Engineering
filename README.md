@@ -1,6 +1,6 @@
 # Software Engineering
 
-## ASP.NET MVC
+## ASP.NET Core MVC
 
 #### SQL Server Management Studio 21
 #### CRUD
